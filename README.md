@@ -1,14 +1,13 @@
 <div align="center">
 
-# Hi, I'm Lu Hong Phuc 👋
+# Hi, I'm Lu Hong Phuc
 
 ### AI · Computer Vision · Machine Learning
 
 Building research-oriented ML systems and turning ideas into working prototypes.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Luphuc2005-181717?style=flat-square&logo=github)](https://github.com/Luphuc2005)
-![Python](https://img.shields.io/badge/Python-Research%20%26%20Engineering-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/Focus-Computer%20Vision%20%7C%20Graph%20Learning-blueviolet?style=flat-square)
+[![Email](https://img.shields.io/badge/Email-phucga150625%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:phucga150625@gmail.com)
 
 </div>
 
@@ -34,7 +33,7 @@ Currently interested in:
 
 ## Featured Projects
 
-### 🧠 [AMGSA FER Framework](https://github.com/Luphuc2005/AMGSA_FER_Framework)
+### [AMGSA FER Framework](https://github.com/Luphuc2005/AMGSA_FER_Framework)
 
 Research-oriented framework for **Facial Expression Recognition**, designed for systematic model training, evaluation, experimentation, and analysis.
 
@@ -42,7 +41,7 @@ Research-oriented framework for **Facial Expression Recognition**, designed for 
 
 ---
 
-### ⚡ [HeteroViT Train](https://github.com/Luphuc2005/HeteroViT-Train)
+### [HeteroViT Train](https://github.com/Luphuc2005/HeteroViT-Train)
 
 Experimental training framework for vision models with a focus on **heterogeneous computing, CPU/GPU benchmarking, distributed training, and training efficiency**.
 
@@ -50,7 +49,7 @@ Experimental training framework for vision models with a focus on **heterogeneou
 
 ---
 
-### 👁️ [SwinCMN](https://github.com/Luphuc2005/SwinCMN)
+### [SwinCMN](https://github.com/Luphuc2005/SwinCMN)
 
 Computer Vision research project exploring **Transformer-based visual representations** and modern vision architectures.
 
@@ -58,7 +57,7 @@ Computer Vision research project exploring **Transformer-based visual representa
 
 ---
 
-### 🔎 [TwoTierGovQA](https://github.com/Luphuc2005/TwoTierGovQA)
+### [TwoTierGovQA](https://github.com/Luphuc2005/TwoTierGovQA)
 
 Question-answering system exploring **multi-stage retrieval and structured reasoning** for information retrieval tasks.
 
@@ -66,7 +65,7 @@ Question-answering system exploring **multi-stage retrieval and structured reaso
 
 ---
 
-### 🌱 AI for Agriculture 2026
+### AI for Agriculture 2026
 
 Competition project exploring practical applications of AI and Computer Vision for agriculture.
 
@@ -74,7 +73,7 @@ Competition project exploring practical applications of AI and Computer Vision f
 
 ---
 
-### 🚌 Smart School Bus Tracking System
+### Smart School Bus Tracking System
 
 Full-stack transportation management platform featuring **real-time GPS tracking, trip-state management, maps, notifications, and multi-role workflows**.
 
